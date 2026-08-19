@@ -9,6 +9,10 @@ The network was designed around the institution's departmental structure and fut
 The project connects administrative departments, academic faculties, student laboratories, IT services, servers, and a branch campus while maintaining separate IP networks for each organizational unit.
 
 ---
+## 🖼️ Network Topology
+
+![Shree Yasam Campus Network Overview](campus-network-overview,jpg.jpg)
+
 
 ## 🗺️ Project Overview
 
@@ -39,6 +43,7 @@ The two campuses communicate through routed network infrastructure, while intern
 ---
 
 ## 🏢 Main Campus Architecture
+![Main Campus Network](main-campus-network.jpg.jpg)
 
 The Main Campus is divided into three buildings.
 
@@ -76,6 +81,7 @@ Centralized network services are hosted within the IT infrastructure and made ac
 ---
 
 ## 🏥 Branch Campus
+![Branch Campus Network](branch-campus-network.jpg.jpg)
 
 The Branch Campus hosts the **Faculty of Health & Sciences**.
 
